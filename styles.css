@@ -152,7 +152,7 @@ svg:hover {
   background-color: #f8f9fb;
   display: flex;
   justify-content: space-around;
-  width: 65%;
+  width: 1300px;
   margin: auto;
   flex-wrap: wrap-reverse;
   padding-top: 25px;
@@ -184,7 +184,7 @@ svg:hover {
 }
 
 .main-img img {
-  width: 400px;
+  width: 300px;
   margin-bottom: 20px;
 }
 
@@ -293,11 +293,11 @@ li.active-course {
     padding-top: 0;
   }
 
-  .main-box {
+  /* .main-box {
     width: 90%;
     margin-top: 35px;
     padding: 20px;
-  }
+  } */
 }
 
 @media (max-width: 920px) {
@@ -331,6 +331,8 @@ li.active-course {
   .main-box {
     width: 100%;
     box-shadow: none;
+    margin-top: 35px;
+    padding: 20px;
   }
   .main-font,
   .main-bold {
