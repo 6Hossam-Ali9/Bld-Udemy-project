@@ -13,4 +13,7 @@ then run
 ```bash
   json-server --watch data/db.json 
 ```
+# Important
+json-server should be running on port 3000
+
 Now, you can try the project.
