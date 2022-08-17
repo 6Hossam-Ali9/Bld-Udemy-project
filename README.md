@@ -1,5 +1,6 @@
 # Bld-Udemy-project
-This is Phase 3 of the project where I have added Bootstrap styles with top categories section and I have also used carousel from Bootstrap to create a slider for the courses 
+
+This is Phase 2 of the project where I have added some functionality making the website dynamic (Fetching courses from local end point and also added a search bar).
 
 ## Deployment
 
